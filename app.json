@@ -1,12 +1,9 @@
 {
+  "categories": ["Miscellaneous"],
+  "icons": { "app": "app.png", "monochrome": "monochrome.png" },
   "name": "ninjaone_rmm",
-  "version": "1.0.0",
-  "summary": {
-    "en": "NinjaOne RMM Agent"
-  },
-  "author": "Alyn Peden",
+  "author": "Your Org",
   "vendor": "NinjaOne",
-  "categories": [
-    "Miscellaneous"
-  ]
+  "summary": { "en": "NinjaOne RMM Agent" },
+  "version": "1.0.0"
 }
