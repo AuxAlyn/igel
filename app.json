@@ -1,0 +1,12 @@
+{
+  "name": "ninjaone_rmm",
+  "version": "1.0.0",
+  "summary": {
+    "en": "NinjaOne RMM Agent"
+  },
+  "author": "Alyn Peden",
+  "vendor": "NinjaOne",
+  "categories": [
+    "Miscellaneous"
+  ]
+}
